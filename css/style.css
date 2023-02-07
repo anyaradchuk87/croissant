@@ -1,3 +1,13 @@
 .container {
-    margin-top: 30px;
+  margin-top: 30px;
+}
+
+body {
+  background-color: wheat;
+}
+img {
+  width: 90%;
+}
+.row {
+  flex-wrap: nowrap;
 }
